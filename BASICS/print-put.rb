@@ -25,3 +25,5 @@ puts name1.strip()
 puts name1.downcase()
 puts name.include? "Mikes" # output in true/false
 puts name[0]
+puts name[0,5]
+puts name.index("will")
