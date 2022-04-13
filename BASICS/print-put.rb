@@ -18,7 +18,6 @@ puts ("Hello " + khankimagir_pola + " your age is "+ age +".")
 
 
 #String MEthod
-
 name = "Mike will made it"
 occupation = "Sex Worker"
 name1 = '               Remove WhiteSpace              '
@@ -29,3 +28,4 @@ puts name.upcase()
 puts name.length()
 puts name1.strip()
 puts name1.downcase()
+puts name.include? "Mikes" # output in true/false
