@@ -12,11 +12,6 @@ puts ("Hello " + khankimagir_pola + " your age is "+ age +".")
 
 
 
-
-
-
-
-
 #String MEthod
 name = "Mike will made it"
 occupation = "Sex Worker"
