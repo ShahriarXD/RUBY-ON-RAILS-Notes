@@ -29,3 +29,4 @@ puts name.length()
 puts name1.strip()
 puts name1.downcase()
 puts name.include? "Mikes" # output in true/false
+puts name[0]
