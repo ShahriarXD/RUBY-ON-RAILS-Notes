@@ -7,3 +7,15 @@ puts (list[2])
 puts(friends)
 puts(list.reverse())
 puts (list.sort())
+
+
+
+
+states = {
+    :Game => "Lol",
+    :age => 66,
+    :sex => "M",
+    2 => "Lmao xD"
+}
+puts (states[:age])
+puts (states[2])
